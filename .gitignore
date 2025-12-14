@@ -1,4 +1,7 @@
 .DS_store
+.png
+.parquet
+.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -207,3 +210,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+title_clusters.png
+text_clusters.png
+text_clustering_k3.png
+text_clustering_k2.png
+data.pkl
