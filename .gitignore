@@ -2,7 +2,6 @@
 .png
 .parquet
 .pkl
-working_notebook.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
