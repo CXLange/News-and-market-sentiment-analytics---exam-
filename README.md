@@ -13,13 +13,6 @@ You are hired by a risk and media analytics team in a large investment firm. The
 understand how misinformation differs from real news in **tone**, **style** and **topics** – and how
 that might distort sentiment-based trading or reputation risk models.
 
-Ideas:
-- What subjects are associated with fake news?
-- Can you build a robust classifier of real/fake news? 
-- Can you find a good way of validating that it works?
-
-
-
 # How I work
 
-For this exam i have my 'working_notebook', where i write and test code, often quite messy, before deciding which parts to keep and then implement these in a cleaner python script where it all should be executed at once.
+For this exam i have my 'working_notebook', where i write and test code, often quite messy, before deciding which parts to keep and then implement these in a cleaner workbook called 'main' which should be considered as the handed in code.
